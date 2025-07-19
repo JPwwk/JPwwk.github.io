@@ -1,28 +1,43 @@
-# 👋 Welcome to My Data Science Portfolio
+# 👨‍💻 Justin Pizzoferrato – Data Science Portfolio
 
-Hi, I’m **Justin Pizzoferrato** — a data-driven problem solver passionate about applied analytics, risk forecasting, and real-world impact through machine learning and visualization.
+Welcome to my data science portfolio. This site showcases applied projects that combine machine learning, data visualization, and real-world problem solving.
 
-This portfolio highlights my top ten end-to-end data science projects, covering:
+---
 
-- 📊 **Exploratory Analysis**  
-- 📈 **Predictive Modeling**
-- 🌍 **Geospatial and Social Risk Mapping**
-- 🤖 **Machine Learning Applications**
-- 💡 **Business and Policy Insights**
+## 🧠 About Me
+
+I'm a graduate student in Applied Data Science at Bellevue University, with a professional background in governance and analytics. My work focuses on solving complex problems through modeling, forecasting, and visualization. This portfolio presents a curated set of projects across industries and methods.
+
+---
+
+## 🛠️ Skills & Tools
+
+- Python: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `plotly`, `statsmodels`
+- Visualization: Tableau, matplotlib, seaborn, plotly
+- Machine Learning: Regression, classification, clustering, PCA, XGBoost, Monte Carlo simulation
+- Tools: Jupyter Notebook, GitHub, Excel, PyCharm, GitHub Pages
+
+---
 
 ## 🔍 Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| [Climate Dataset Exploration](https://github.com/JPwwk/data-science-repository/blob/main/Climate%20Dataset%20Exploration.ipynb) | Multidimensional disaster risk modeling using clustering and socioeconomic overlays. |
-| [Childcare Affordability](https://github.com/JPwwk/data-science-repository/blob/main/Childcare%20Affordability%20in%20the%20U.S..ipynb) | Evaluates how cost burdens vary by income group and region. |
-| [Water Scarcity Forecasting](https://github.com/JPwwk/data-science-repository/blob/main/Water%20Scarcity%20in%20US%20Cities.ipynb) | Scenario forecasting of urban water use based on risk and equity factors. |
-| [Netflix Popularity Analysis](https://github.com/JPwwk/data-science-repository/blob/main/Predicting_Impact_of_Netflix_Shows.ipynb) | Identifies features that drive show longevity and engagement. |
-| [Auto Rerate Impact Model](https://github.com/JPwwk/data-science-repository/blob/main/Rerate%20Impact%20Analysis.ipynb) | Monte Carlo-based simulation of state-level refund exposure. |
-
-Explore the full repository [here →](https://github.com/JPwwk/data-science-repository)
+| [Climate Dataset Exploration](https://github.com/JPwwk/data-science-repository/tree/main/climate-dataset) | Multidimensional disaster risk modeling using clustering and socioeconomic overlays. |
+| [Childcare Affordability](https://github.com/JPwwk/data-science-repository/tree/main/childcare-affordability) | Evaluates how childcare costs vary by income and state. |
+| [Water Scarcity Forecasting](https://github.com/JPwwk/data-science-repository/tree/main/water-scarcity) | Scenario forecasting of urban water use based on risk and equity factors. |
+| [Netflix Popularity Analysis](https://github.com/JPwwk/data-science-repository/tree/main/netflix-prediction) | Identifies features that drive show longevity and engagement. |
+| [Auto Rerate Impact Model](https://github.com/JPwwk/data-science-repository/tree/main/climate-vs-stocks) | Monte Carlo simulation of state-level refund exposure and mitigation scenarios. |
 
 ---
 
-📫 **Let’s connect!**  
-Feel free to reach out on LinkedIn or view my work live on this site.
+## 📁 View All Projects
+
+Explore the full repository here:  
+👉 [GitHub Portfolio Repository](https://github.com/JPwwk/data-science-repository)
+
+---
+
+## 📬 Let’s Connect
+
+Feel free to reach out via LinkedIn or view more work on this site.  
