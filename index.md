@@ -12,10 +12,10 @@ I'm a graduate student in Applied Data Science at Bellevue University, with a pr
 
 ## 🛠️ Skills & Tools
 
-- Python: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `plotly`, `statsmodels`
-- Visualization: Tableau, matplotlib, seaborn, plotly
-- Machine Learning: Regression, classification, clustering, PCA, XGBoost, Monte Carlo simulation
-- Tools: Jupyter Notebook, GitHub, Excel, PyCharm, GitHub Pages
+- **Languages:** Python (`pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `plotly`, `statsmodels`)
+- **Visualization:** Tableau, matplotlib, seaborn, plotly
+- **Machine Learning:** Regression, classification, clustering, PCA, XGBoost, Monte Carlo simulation
+- **Tools:** Jupyter Notebook, GitHub, Excel, PyCharm, GitHub Pages
 
 ---
 
