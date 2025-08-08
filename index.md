@@ -19,15 +19,23 @@ I'm a graduate student in Applied Data Science at Bellevue University, with a pr
 
 ---
 
-## 🔍 Featured Projects
+## Featured Projects
 
 | Project | Description |
-|--------|-------------|
+|---|---|
+| [Rent & Eviction Analysis](https://github.com/JPwwk/data-science-repository/tree/main/rent-eviction-analysis) | Predicts monthly eviction filings using rent volatility, pre-pandemic baselines, and unemployment; highlights high-risk ZIP clusters for targeted intervention. |
+| [Childcare Affordability](https://github.com/JPwwk/data-science-repository/tree/main/childcare-affordability) | Evaluates how childcare costs vary by income and state; builds affordability metrics and visuals. |
+| [Childcare Cost](https://github.com/JPwwk/data-science-repository/tree/main/childcare-cost) | Cleans/aggregates childcare price data; compares levels by region and time. |
 | [Climate Dataset Exploration](https://github.com/JPwwk/data-science-repository/tree/main/climate-dataset) | Multidimensional disaster risk modeling using clustering and socioeconomic overlays. |
-| [Childcare Affordability](https://github.com/JPwwk/data-science-repository/tree/main/childcare-affordability) | Evaluates how childcare costs vary by income and state. |
+| [Climate vs. Stocks](https://github.com/JPwwk/data-science-repository/tree/main/climate-vs-stocks) | Tests relationships between climate indicators and market performance with time-series methods. |
+| [Employee Attrition](https://github.com/JPwwk/data-science-repository/tree/main/employee-attrition) | Classifies churn risk and identifies top retention drivers using ML explainability. |
+| [Movie Recommendation](https://github.com/JPwwk/data-science-repository/tree/main/movie-recommendation) | Recommender system using similarity and collaborative filtering techniques. |
+| [Netflix Popularity Analysis](https://github.com/JPwwk/data-science-repository/tree/main/netflix-prediction) | Identifies features that drive show longevity and engagement; builds predictive baseline. |
+| [Social Media Virality](https://github.com/JPwwk/data-science-repository/tree/main/social-media-virality) | Models post performance; feature engineering and A/B insights for growth tactics. |
 | [Water Scarcity Forecasting](https://github.com/JPwwk/data-science-repository/tree/main/water-scarcity) | Scenario forecasting of urban water use based on risk and equity factors. |
-| [Netflix Popularity Analysis](https://github.com/JPwwk/data-science-repository/tree/main/netflix-prediction) | Identifies features that drive show longevity and engagement. |
-| [Auto Rerate Impact Model](https://github.com/JPwwk/data-science-repository/tree/main/climate-vs-stocks) | Monte Carlo simulation of state-level refund exposure and mitigation scenarios. |
+
+### View All Projects
+- Full repository: [data-science-repository](https://github.com/JPwwk/data-science-repository)
 
 ---
 
